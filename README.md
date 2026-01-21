@@ -1,10 +1,10 @@
-## Peru Data Heatmap Visualization
+## Econometrics Clases
 
 Author:  Facundo Cabral  
 Github:   [facundocabralvaldivia](https://github.com/facundocabralvaldivia)  
 Linkedin: [Facundo Cabral](www.linkedin.com/in/facundo-cabral-valdivia)
 
-I'm econometrics teaching assistant and this repository contains econometric applicationsin python used for teaching classes.
+I'm econometrics teaching assistant and this repository contains econometric applications in python used for teaching classes.
 
 ### Econometric Applications
 | File                 | Database               | Related Topics                  |
