@@ -1,0 +1,12 @@
+# Quarto
+quarto/
+
+# Python (si usas Python en el proyecto)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+env/
+venv/
+ENV/
